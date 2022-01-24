@@ -1,0 +1,16 @@
+{
+    "name": "facade/flare-client-php-example",
+    "description": "An example installtion of flare-client-php in a vanilla PHP project",
+    "type": "project",
+    "require": {
+        "facade/flare-client-php": "^1.9",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Vanderbist",
+            "email": "alex.vanderbist@gmail.com"
+        }
+    ]
+}
